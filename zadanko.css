@@ -1,0 +1,17 @@
+.container{
+    display: flex;
+}
+
+.todo{
+    height: 100vh;
+    background: rebeccapurple;
+    flex: 1; 
+}
+
+.done{
+    height: 100vh;
+    background: yellow;
+    flex: 1;
+}
+
+

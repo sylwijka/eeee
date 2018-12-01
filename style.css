@@ -1,0 +1,11 @@
+.box, #yo, p {
+    width: 100px;
+    height: 100px;
+    background: red;
+    border: 10px dotted black;
+   
+}
+.flex-container {
+    display: flex;
+    flex-direction: column;
+}
